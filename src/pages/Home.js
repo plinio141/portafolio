@@ -2,10 +2,10 @@ import About from '../templates/About';
 import Profile from '../templates/Profile';
 import Project from '../templates/Project';
 import Skill from '../templates/Skill';
-import data from '../utils/data';
+import getData from '../utils/getData';
 
 const Home = async () => {
-    const dataUser = await data();
+    const dataUser = await getData();
     const view = `
     ${Profile(dataUser.profile)}
     <div>
