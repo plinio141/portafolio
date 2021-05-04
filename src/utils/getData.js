@@ -12,15 +12,15 @@ const data = {
                 icon: 'linkedin-icon'
             },
             {
-                url: 'https://www.linkedin.com/in/plinio-grijalba/',
+                url: 'https://dev.to/plinio141',
                 icon: 'devto-icon'
             },
             {
-                url: 'https://www.linkedin.com/in/plinio-grijalba/',
+                url: 'https://twitter.com/pliniogrijalba',
                 icon: 'twitter-icon'
             },
             {
-                url: 'https://www.linkedin.com/in/plinio-grijalba/',
+                url: 'https://github.com/plinio141',
                 icon: 'github-icon'
             }
         ]
